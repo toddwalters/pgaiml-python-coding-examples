@@ -1,7 +1,11 @@
 # macOS
 .DS_Store
+
 # vscode
 .vscode
+
+# ms word
+~*.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
