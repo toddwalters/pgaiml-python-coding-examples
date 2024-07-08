@@ -7,6 +7,9 @@
 # ms word
 ~*.docx
 
+# temporary data sets
+boat_type_classification_dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
