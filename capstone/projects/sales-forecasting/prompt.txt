@@ -1,0 +1,9 @@
+I need help creating a Juypter Notebook associated with a deep-learning project.  I have uploaded a pdf which include the project details including a list of tasks that need to be performed as part of the project.  I have also included three csv files that include the data to be used as part of the project.    
+
+As a deep learning engineer, your task is to create a jupyter note books with following sections and subsection: Context, Objectives, Dataset Description, Analysis Steps to Perform 
+
+The subsections within the Analysis Steps to Perform should contain python code blocks containing the python code that can be used to complete the each of the data science  and machine learning project tasks.  Each task should be it's own subsection.  The markdown section within each subsection should contain the following:       Explanations, Why It Is Important, Observations, Conclusions, and Recommendations
+
+The Explanations markdown, should be an explanation of the python code from the code block in the subsection.  The Why It Is Important markdown, should provide the reasons what is being done within this subsection is important to the data science and machine learning investigation that is happening within the notebook.  For the Observations, Conclusions and Recommendations sections, provide placeholder details of expected observations, conclusions and recommendations.
+
+After you generate the initial notebook, we will partner together to update the Observations, Conclusions and Recommendations sub-sections together.  I will provide you the output from executing the code blocks within each subsection and you will help to write up specific Observations, Conclusions and Recommendations for those subsections.
